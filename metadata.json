@@ -1,0 +1,6 @@
+{
+  "name": "Roleta da Sorte",
+  "description": "Roleta da Sorte interativa com giros grátis, prêmios e bônus especiais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
